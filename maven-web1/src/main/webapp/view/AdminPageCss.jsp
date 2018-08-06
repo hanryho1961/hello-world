@@ -11,7 +11,7 @@
 		div#container {
 			box-shadow: 0 0 0 5px black, 0 0 0 7px red;
 			border-spacing: 10px;
-			width: 920px;
+			width: 920px; 
 			height: 800px;
 			margin: 0px auto;
 		}
